@@ -1,5 +1,12 @@
-# Task 3 – Service Mesh & Zero Trust
+# Task 3 – Planned Implementation
 
-This folder contains the Istio service mesh, mTLS, AuthorizationPolicy and NetworkPolicy implementation.
+Due to time constraints, this task was not implemented.
 
-Implementation in progress.
+Planned implementation:
+
+- Istio installation
+- STRICT mTLS
+- AuthorizationPolicy
+- NetworkPolicy
+- Zero Trust communication
+- SPIFFE workload identities

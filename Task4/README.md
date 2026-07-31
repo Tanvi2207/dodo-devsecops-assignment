@@ -1,5 +1,12 @@
-# Task 4 – Recon & Pen-Test Report
+# Task 4 – Planned Implementation
 
-This folder contains the reconnaissance findings, penetration testing report and remediation recommendations.
+Due to time constraints, this task was not implemented.
 
-Implementation in progress.
+Planned implementation:
+
+- Reconnaissance
+- Vulnerability identification
+- CVE analysis
+- Proof of Concepts
+- Penetration testing report
+- Remediation recommendations
