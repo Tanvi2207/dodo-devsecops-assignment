@@ -71,3 +71,8 @@ Validation performed:
 
 Screenshots demonstrating the deployment and health checks are included in the repository.
 
+## Assumptions & Trade-offs
+
+- Plaintext Kubernetes Secrets are intentionally excluded from version control.
+- A Kyverno policy manifest is included. Deploying the Kyverno controller is outside the scope of this local Docker Desktop environment.
+- The application was validated using Kubernetes health probes and the `/health` endpoint.

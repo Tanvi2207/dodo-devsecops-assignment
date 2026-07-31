@@ -4,3 +4,4 @@ __pycache__/
 .DS_Store
 *.log
 deploy/secret.yaml
+Task1/deploy/secret.yaml
